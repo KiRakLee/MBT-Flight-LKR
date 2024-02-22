@@ -14,6 +14,9 @@ If WpfWindow("Micro Focus MyFlight Sample").Exist Then
 Else
 	Reporter.ReportEvent micFail, "Login - Flight GUI not found", "Flight GUI application window not found. Exiting..."
 	ExitTest
+	
+	
+	
 End If
  @@ hightlight id_;_1950326688_;_script infofile_;_ZIP::ssf4.xml_;_
  @@ hightlight id_;_2100371504_;_script infofile_;_ZIP::ssf28.xml_;_
